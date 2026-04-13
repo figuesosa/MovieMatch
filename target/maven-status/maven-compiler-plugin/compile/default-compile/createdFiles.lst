@@ -1,0 +1,14 @@
+moviematch\dao\PeliculaDAO.class
+moviematch\modelo\Genero.class
+moviematch\servicio\ServicioRecomendacion.class
+moviematch\dao\CalificacionDAO.class
+moviematch\modelo\Usuario.class
+moviematch\modelo\Pelicula.class
+moviematch\modelo\Calificacion.class
+moviematch\vista\VentanaLogin.class
+moviematch\dao\PreferenciaDAO.class
+moviematch\dao\UsuarioDAO.class
+moviematch\modelo\ListaPersonal.class
+moviematch\dao\GeneroDAO.class
+moviematch\dao\ListaPersonalDAO.class
+moviematch\util\ConexionBD.class
