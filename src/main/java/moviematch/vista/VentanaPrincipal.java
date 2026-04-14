@@ -124,7 +124,14 @@ public class VentanaPrincipal extends JFrame {
         JOptionPane.showMessageDialog(this,
                 "MovieMatch — recomendaciones según géneros preferidos, popularidad y valoraciones.\n"
                         + "Incluye catálogo, calificaciones y lista personal (favoritos / ver más tarde).\n"
-                        + "Proyecto académico (Java Swing + MySQL).",
+                        + "Proyecto académico (Java Swing + MySQL).\n\n"
+                        + "Grupo #5 Programacion Avanzada I\n"
+                        + "• Mirian Natalia Manzanares Paz\n"
+                        + "• José Manuel Montoya Gómez\n"
+                        + "• Cristopher André Romero Martinez\n"
+                        + "• Sofía Valeria García Aguilar\n"
+                        + "• Elmer Leonel Velasquez Manzanares\n"
+                        + "• David Mauricio Figueroa Sosa (Coordinador)",
                 "Acerca de MovieMatch",
                 JOptionPane.INFORMATION_MESSAGE);
     }
